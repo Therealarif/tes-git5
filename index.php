@@ -8,5 +8,6 @@
 </head>
 <body>
     <h1>Halo bang Arif</h1>
+    Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus, iusto quibusdam impedit atque tenetur natus cum illum. Expedita natus sint possimus blanditiis facere? Cum officiis nobis quas a, doloremque fuga?
 </body>
 </html>
